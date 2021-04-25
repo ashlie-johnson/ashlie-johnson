@@ -2,4 +2,4 @@
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me -- ashlie.johnson@gmail.com
+- 📫 How to reach me -- ashlie.johnson07@gmail.com
