@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ashlie-johnson
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning android studio
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me -- ashlie.johnson@gmail.com
