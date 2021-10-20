@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ashlie-johnson
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning biological statistics in R
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me -- ashlie.johnson07@gmail.com
+Bioinformatics undergraduate at BYU
