@@ -1,1 +1,1 @@
-Bioinformatics undergraduate at BYU
+Bioinformatics assistant at BioFire Defense
